@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>$id$</id>
+    <version>$version$</version>
+    <title>Xamarin.HotSpotManager</title>
+    <authors>Nathan Westfall</authors>
+    <owners>Nathan Westfall</owners>
+    <projectUrl>https://github.com/nwestfall/Xamarin.HotSpotManager</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>Xamarin C# port of https://github.com/nickrussler/Android-Wifi-Hotspot-Manager-Class to allow creating and managing Hot Spots on Android devices</description>
+    <releaseNotes>First release</releaseNotes>
+    <copyright>Copyright 2017</copyright>
+    <tags>Xamarin Android Hotspot Wifi</tags>
+  </metadata>
+</package>
