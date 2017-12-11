@@ -1,0 +1,4 @@
+HotSpotManager.App.MainActivity, HotSpotManager.App;md5d78c7debe20940d09edaffa2c3430694.MainActivity
+HotSpotManager.App.MainActivity, HotSpotManager.App, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5d78c7debe20940d09edaffa2c3430694.MainActivity
+HotSpotManager.App.MainActivity;md5d78c7debe20940d09edaffa2c3430694.MainActivity
+hotspotmanager.app.MainActivity;md5d78c7debe20940d09edaffa2c3430694.MainActivity

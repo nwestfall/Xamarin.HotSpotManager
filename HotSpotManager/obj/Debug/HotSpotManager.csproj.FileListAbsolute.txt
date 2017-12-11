@@ -1,0 +1,12 @@
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\bin\Debug\HotSpotManager.dll
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\bin\Debug\HotSpotManager.pdb
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\bin\Debug\HotSpotManager.HotSpotManager.apk
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\bin\Debug\HotSpotManager.HotSpotManager-Signed.apk
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\HotSpotManager.csprojResolveAssemblyReference.cache
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\HotSpotManager.csproj.CoreCompileInputs.cache
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\HotSpotManager.dll
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\HotSpotManager.pdb
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\android\bin\HotSpotManager.HotSpotManager.apk
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\R.cs.flag
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\obj\Debug\uploadflags.txt
+c:\users\nathan.westfall\documents\visual studio 2017\Projects\HotSpotManager\HotSpotManager\bin\Debug\HotSpotManager.dll.mdb
