@@ -1,6 +1,6 @@
 # Xamarin.HotSpotManager
 [![Build status](https://ci.appveyor.com/api/projects/status/9xnqpdq5grglvpq1?svg=true)](https://ci.appveyor.com/project/nwestfall/xamarin-hotspotmanager)
-[![NuGet version](https://badge.fury.io/nu/Xamarin.HotSpotManager.svg)](https://badge.fury.io/nu/Xamarin.HotSpotManager)
+[![NuGet version](https://badge.fury.io/nu/HotSpotManager.svg)](https://badge.fury.io/nu/HotSpotManager)
 
 Xamarin C# port of https://github.com/nickrussler/Android-Wifi-Hotspot-Manager-Class to allow creating and managing Hot Spots on Android devices
 
